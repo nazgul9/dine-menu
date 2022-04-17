@@ -13,7 +13,7 @@ function wok(props) {
             <Card>
                 
         
-        <Image style={{padding:'7px'}} src='https://media.istockphoto.com/photos/mix-of-vegetables-fried-in-a-wok-picture-id1056690094'/>
+        <Image style={{padding:'7px'}} src='.././img/wok.jpeg'/>
         <Table striped bordered hover>
             <thead>
                 <tr>

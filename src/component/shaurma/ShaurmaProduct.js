@@ -3,50 +3,44 @@ const shaurma =[
             id:1,
             title:"Шаурма ассорти",
             description:"мясо гов , сосиски, помидор ,огурцы, капуста, фри",
-            img:"https://hroomroom.com.ua/wp-content/uploads/img-721-1510676991-e1617717628667.png",
-            price:"180 сом"
+            img:".././img/shaurma.jpeg", price:"180 сом"
         },
         {
             id:2,
             title:"Шаурма из говядины",
             description:"мясо гов, помидор, огурцы, капуста, фри",
-            img:"https://hroomroom.com.ua/wp-content/uploads/img-721-1510676991-e1617717628667.png",
-            price:"160 сом"
+            img:".././img/shaurma.jpeg",price:"160 сом"
         },
         {
             id:3,
             title:"Шаурма из курицы",
             description:"мясо кур, салаты, огурцы, капуста,фри",
-            img:"https://static.1000.menu/img/content-v2/05/d8/21554/klassicheskaya-shaurma_1589963797_11_max.jpg",
-            price:"160 сом"
+            img:".././img/shaurma.jpeg", price:"160 сом"
         },
         {
             id:4,
             title:"Шаурма большой",
             description:"мясо кур 2х, помидор, салаты, огурцы, капуста,фри",
-            img:"https://static.1000.menu/img/content-v2/05/d8/21554/klassicheskaya-shaurma_1589963797_11_max.jpg",
-            price:"160 сом"
+            img:".././img/shaurma.jpeg", price:"230 сом"
         },
         {
             id:5,
             title:"Шаурма микс",
             description:"мясо гов/кур, помидор,  огурцы, капуста,фри",
-            img:"https://cafesahara.ru/upload/resize_cache/iblock/0ad/1200_1200_1/0ad3911f880716dc24e129f77c25372c.jpg",
+            img:".././img/shaurma.jpeg",
             price:"200 сом"
         },
         {
             id:6,
             title:"Шаурма с сыром",
             description:"мясо гов, сыр, помидор,  огурцы, капуста",
-            img:"https://static.1000.menu/img/content/29240/shaurma-s-syrom_1540395523_1_max.jpg",
-            price:"180 сом"
+            img:".././img/shaurma.jpeg", price:"180 сом"
         },
         {
             id:7,
             title:"Шаурма вегетарианский",
             description:"салатыб помидор,  огурцы, соус",
-            img:"https://tishka.org/master%20class/vegetarian%20shaurma/vegetarianskaya-shaurma.jpg",
-            price:"80 сом"
+            img:".././img/shaurma.jpeg", price:"80 сом"
         },
    
         {
@@ -81,7 +75,7 @@ const shaurma =[
             id:5,
             title:"Гамбургер двойной",
             description:"мясо гов 2х, салат, помидор, огурцы",
-            img:"https://thumbs.dreamstime.com/b/%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9-%D0%B3%D0%B0%D0%BC%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80-26247943.jpg",
+            img:".././img/burger2.jpeg",
             price:"140 сом"
         },
         {
@@ -143,12 +137,12 @@ const shaurma =[
             id:5,
             title:"Картофель фри",
             price:"80 сом",
-            img:"https://og.ru/sites/default/files/styles/620x370/public/uploads/news/1060.jpg?itok=gCduWeiM",
+            img:".././img/fri.jpeg",
         }, {
             id:6,
             title:"Картофель по-деревенной",
             price:"100 сом",  
-             img:"https://st4.depositphotos.com/16806292/i/600/depositphotos_201221478-stock-photo-french-fries-sauce-wooden-board.jpg",
+             img:".././img/fri2.jpeg",
 
         },
         {

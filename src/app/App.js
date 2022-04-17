@@ -18,7 +18,7 @@ import Wok from '../component/wok/Wok'
 import Zavtract from '../component/zavtract/Zavtract'
 import Footer from './Footer';
 
-import QrCode from 'qrcode.react'
+// import QrCode from 'qrcode.react'
 
 function App(props) {
   return (
@@ -33,22 +33,25 @@ function App(props) {
         </h1>
       </div> */}
       <Routes>
-        <Route path="/Burger" element={<Burger/>} />
-        <Route path="/Desert" element={<Desert />} />
-        <Route path="/Napitki" element={<Napitki />} />
-        <Route path='/GNapit' element={<GNapit/>}/>
-        <Route path="/GRool" element={<GRool />} />
-        <Route path="/HRool" element={<HRool />} />
         <Route path="/Krylyshki" element={<Krylyshki />} />
         <Route path="/NasiBlud" element={<NasiBlud />} />
-        <Route path="/Pizza" element={<Pizza />} />
-        <Route path="/Salad" element={<Salad />} />
+        <Route path="/Zavtract" element={<Zavtract />} />
         <Route path="/Shaurma" element={<Shaurma />} />
+        <Route path="/Napitki" element={<Napitki />} />
+        <Route path="/Desert" element={<Desert />} />
+        <Route path="/Burger" element={<Burger/>} />
+        <Route path='/GNapit' element={<GNapit/>}/>
+        <Route path='/Pizza' element={<Pizza/>}/>
+        <Route path='/Salad' element={<Salad/>}/>
+        <Route path="/GRool" element={<GRool />} />
+        <Route path="/HRool" element={<HRool />} />
+        <Route path="/Soci" element={<Soci />} />
+        <Route path="/Sous" element={<Sous />} />
         <Route path="/Soci" element={<Soci />} />
         <Route path="/Sous" element={<Sous />} />
         <Route path="/Wok" element={<Wok />} />
-        <Route path="/Zavtract" element={<Zavtract />} />
-      <Route path="/" element={<Home />}>
+       
+        <Route path="/" element={<Home />}>
       </Route>
     </Routes>
     <Footer/>

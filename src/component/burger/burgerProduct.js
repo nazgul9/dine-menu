@@ -1,13 +1,14 @@
 const Burgers = [
         {
             id: 1,
-            img: "https://chefbbq.ru/nuber/images/shop/product/aae8772e-f9a2-437a-a116-447282a0ea34/d06afb91-9dab-4ca9-b240-220622943cff.jpg",
+            // img: "https://chefbbq.ru/nuber/images/shop/product/aae8772e-f9a2-437a-a116-447282a0ea34/d06afb91-9dab-4ca9-b240-220622943cff.jpg",
+            img:".././img/chonburger.jpeg",
             title: "Гамбургер с говяжьей котлетой",
             description: "(мясо гов,соус, салатые) ",
             price:'150 cом'
         }, {
             id: 20,
-            img: "http://rosahotel.ru/filestore/productPhotos/biggest/p_ov8iw5c0oise.jpg",
+            img: ".././img/burger2.jpeg",
             title: "Гамбургер двойной с говяжьей котлетой",
             description: "(мясо, гов)"
             ,price:'250 cом'
@@ -31,7 +32,7 @@ const Burgers = [
             ,price:'130 cом'
         }, {
             id: 5,
-            img: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/48/be/44/a-juicy-burger.jpg?w=800&h=600&s=1",
+            img: ".././img/dineburger.jpeg",
             title: "Dine бургер",
             description: "(говяжий котлет,сыр ,помидор,соленые огурцы,лук крас)"
             ,price:'170 cом'

@@ -12,7 +12,7 @@ function Desert(props) {
             </h1>
             {desert.map(a => (
                 <Card >
-                    <Card.Img className='images'style={{padding:'7px'}} variant="top" src={a.img} />
+                    <Card.Img className='images'style={{padding:'7px',height:"300px"}} variant="top" src={a.img} />
                     <Card.Body>
                         <Card.Title>{a.title}</Card.Title>
                         <Card.Text>{a.description}

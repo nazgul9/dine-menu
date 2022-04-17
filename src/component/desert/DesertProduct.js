@@ -9,13 +9,13 @@ const deserts=[
             id: 2,
             title: "Фиолетовый (Куликовский)"
             ,price:'140 сом',
-            img:"https://sun9-72.userapi.com/impf/c837628/v837628925/1836b/MzauYJztrg0.jpg?size=520x0&quality=95&sign=6d354e5acfa4525c4ff69f94c0535a67"
+            img:".././img/kulikovskinejnyi.jpeg"
 
         }, {
             id: 3,
             title:"Нежный(Куликовский)"
             ,price:'130 сом',
-            img:"https://nambafood.kg/image_by_id/49411"
+            img:".././img/nejnyi.jpeg"
         }, {
             id: 4,
             title:"Снежок(Куликовский)"
@@ -45,7 +45,7 @@ const deserts=[
             id: 9,
             title: "Медовик"
             ,price:'70 сом',
-            img:"https://www.gastronom.ru/binfiles/images/20151001/bf10f42c.jpg"
+            img:".././img/medavik.jpeg"
         }, {
             id: 10,
             title: "Сникерс"

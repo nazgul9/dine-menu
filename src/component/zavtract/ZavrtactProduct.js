@@ -3,7 +3,7 @@ const savtrackt =[
             id: 1,
             title: "Блинчик со сметаной",
             price:'20 сом',
-            img:"https://chinatown19.ru/wp-content/uploads/2015/03/IMG_9884_1.jpg",
+            img:".././img/blinchik.jpeg",
             description: "(1шт)"
         }, {
             id: 2,
@@ -14,7 +14,7 @@ const savtrackt =[
         }, {
             id: 3,
             price:'25 сом',
-            img:"https://img.iamcook.ru/2019/upl/recipes/middle/u-c5b57a54b22c9bd29e33f011697afa81.JPG",
+            img:".././img/blinchiksdjemom.jpeg",
             title: "Блинчик с джемом",
             description: "(1шт)"
         }, {

@@ -3,7 +3,7 @@ const hrolly = [
             id: 1,
             title: "Филадельфия",
             price:'240 сом',
-            img:"http://edimvkusno.org/images/materialsimages/filadelfia.jpg",
+            img:".././img/filadrool.jpeg",
             description: "(лосось,сыр сливочный,свежие огурцы)"
         }, {
             id: 2,

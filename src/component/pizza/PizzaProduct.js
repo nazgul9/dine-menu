@@ -3,7 +3,7 @@ const pizza = [
             id: 1,
             title: "Dine",
             price:'350/450 сом',
-            img:"https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/stLFP0JWjHP_UFO2Z25NcR1D9hU=/930x0/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/N4GKGLDLOWIHZ373LWZ56LAQPQ.jpg",
+            img:".././img/pizzadaine.jpeg",
             description: "(сыр,соус,сливочный,мусулман колбаса,кур.филе,лук)"
 
         }, {

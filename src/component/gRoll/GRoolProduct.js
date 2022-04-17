@@ -7,13 +7,13 @@ const grolly =[
             description: "(краб,сырный соус, сыр,унаги)"
         }, {
             id: 2,
-            title: "Запеченный ролл ч лососем"
+            title: "Заpеченный ролл ч лососем"
             ,price:'230 сом',
-            img:"https://recepti-foreli.ru/wp-content/uploads/2011/11/zapechenie-rolli-s-lososem.jpg",
+            img:".././img/zarechnyiroll.jpeg",
             description: "(лосось,сыр слив,соус сыр,унаги)"
         }, {
             id: 3,
-            title: "Запеченный ролл с сыром",
+            title: "Заpеченный ролл с сыром",
             price: '230 сом',
             img:"https://static.1000.menu/img/content/22516/goryachie-rolly-s-lososem-i-syrom_1505993073_1_max.jpg",
             description: "(курица,сыр слив,соус сыр,айсберг)"
@@ -21,7 +21,7 @@ const grolly =[
             id: 4,
             title: "Темпура маки с угрем"
             ,price:'260 сом',
-            img:"https://сушисамурай.рф/files/products/s-urem-.960x600.jpg?79d3a94478f3b9de783e71e0395997c4",
+            img:"https://yaposhka64.ru/assets/images/products/94/big/tempura-maki.jpg",
             description: "(угорь,сыр сливоч,авокадо,соус спайси)"
         }, {
             id: 5,
@@ -33,13 +33,13 @@ const grolly =[
             id: 6,
             title: "Темпура микс"
             ,price:'270 сом',
-            img:"https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/437816/aEut8ZewVoYS8KxnGgfQ.jpg",
+            img:"https://yaposhka64.ru/assets/images/products/94/big/tempura-maki.jpg",
             description: "(лосось,угорь,авокадо,соус спайси)"
         }, {
             id: 7,
             title: "Хаманиши"
             ,price:'250 сом',
-            img:"https://сушисамурай.рф/files/products/hamanishi-tempura.510x600.jpg?5f6b963e4f5a12b5debbd87c53dd72ee",
+            img:"https://static.insales-cdn.com/images/products/1/6917/117062405/aafed4aafa3f5369eb3399ca80302b4c.jpg",
             description: "(лосось,сыр сливочный,терияки,свежие огурцы)"
         }
     ]

@@ -8,7 +8,6 @@ function Menu(props) {
         <div className=' m-2 p-2'>
             <h1 className='inline-block m-2 text-center pricePizza'>МЕНЮ:</h1>
 
-
             <Card className=' m-2 texth1' as={Link} to="/Zavtract" style={{ borderRadius: "50px" }}><h1 >Завтрак</h1></Card>
 
             <Card className=' m-2 texth1' as={Link} to='/Burger' style={{ borderRadius: "50px" }}><h1 >Бургеры</h1></Card>

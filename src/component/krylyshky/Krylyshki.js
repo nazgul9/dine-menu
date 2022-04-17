@@ -13,7 +13,7 @@ function Krylyshki(props) {
         {roll.map(a=>{
             return(
                 <Card >
-                <Card.Img variant="top"style={{padding:'7px'}} src={a.img} />
+                <Card.Img variant="top"style={{padding:'7px',height:'380px'}} src={a.img} />
                 <Card.Body>
                     <Card.Title>{a.title}</Card.Title>
                     <Card.Text>{a.description}

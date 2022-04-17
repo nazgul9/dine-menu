@@ -10,19 +10,19 @@ const Salats = [
             id: 2,
             title: "Оливье"
             , price: '120 сом'
-            ,img:"https://www.gastronom.ru/binfiles/images/20180119/b17ee29a.jpg",
+            ,img:".././img/o.jpeg",
              description: "(200гр)"
         }, {
             id: 3,
             title: "Острый"
             , price: '180 сом'
-            ,img:"https://e3.edimdoma.ru/data/recipes/0009/6019/96019-ed4_wide.jpg?1628787814",
+            ,img:".././img/saladostryi.jpeg",
              description: "(200гр)"
         }, {
             id: 4,
             title: "Цезарь с курицей"
             , price: '180 сом'
-            ,img:"https://www.maggi.ru/data/images/recept/img640x500/recept_1914_hujt.jpg",
+            ,img:".././img/sezarsalat.jpeg",
              description: "(200гр)"
         }
     ]

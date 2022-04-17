@@ -3,7 +3,7 @@ const nasiblid =  [
             id: 1,
             title: "Шорпо из говядины",
             price:'150 сом',
-            img:"https://2recepta.com/recept/sup-shurpa-iz-govyadiny/sup-shurpa-iz-govyadiny.jpg",
+            img:".././img/shorpo.jpeg",
             description: "(1порц)"
         }, {
             id: 2,
@@ -28,7 +28,7 @@ const nasiblid =  [
             id: 5,
             title: "Лагман национальный"
             ,price:'150 сом',
-            img:"https://static.1000.menu/img/content/33742/lagman-uzbekskii-klassicheskii_1554025382_1_max.jpg",
+            img:".././img/lagman.jpeg",
             description: "(1порц)"
         }, {
             id: 6,
@@ -58,25 +58,26 @@ const nasiblid =  [
             id: 10,
             title: "Гуляш"
             ,price:'160 сом',
-            img:"https://cdn.7days.ru/pic/9d5/941596/564503/86.jpg",
+            img:".././img/bishteks.jpeg",
             description: "(1порц)"
         }, {
             id: 11,
             title: "Манты"
             ,price:'30,150 сом',
-            img:"https://rutxt.ru/files/16498/original/d38b9c88f1.JPG",
+           
+            img:"./img/manty.jpeg",
             description: "(1шт,1порц)"
         }, {
             id: 12,
             title: "Манты жареный"
             ,price:'35,175 сом',
-            img:"https://img.iamcook.ru/2018/upl/recipes/zen/u-4e54daa7ba9769a1950cb4bda7a966ae.jpg",
+            img:".././img/jmanty.jpeg",
             description: "(1шт,1порц)"
         }, {
             id: 13,
             title: "Плов"
             ,price:'150 сом',
-            img:"https://www.delonghi.com/Global/recipes/multifry/704.jpg",
+            img:".././img/ash.jpeg",
             description: "(1порц)"
         }, {
             id: 14,
@@ -88,7 +89,7 @@ const nasiblid =  [
             id: 15,
             title: "Яйца с горохом"
             ,price:'130 сом',
-            img:"https://zernograd.com/wp-content/uploads/2017/07/yaichnitsa-glazunya-s-zelyonym-goroshkom-sunny-side-up-eggs-with-green-peas.jpg",
+            img:".././img/goroxtukum.jpeg",
             description: "(150гр)"
         }, {
             id: 16,
