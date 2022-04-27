@@ -52,13 +52,13 @@ const nasiblid =  [
             id: 9,
             title: "Бифштекс"
             ,price:'160 сом',
-            img:"https://s1.eda.ru/StaticContent/Photos/110801145243/120608145647/p_O.jpg",
+            img:".././img/bt.jpeg",
             description: "(1порц)"
         }, {
             id: 10,
             title: "Гуляш"
             ,price:'160 сом',
-            img:".././img/bishteks.jpeg",
+            img:"https://home-restaurant.ru/wp-content/uploads/2014/07/gulyash-iz-govyadinyi-s-podlivkoy-retsept-s-foto_13.jpg",
             description: "(1порц)"
         }, {
             id: 11,
@@ -71,7 +71,7 @@ const nasiblid =  [
             id: 12,
             title: "Манты жареный"
             ,price:'35,175 сом',
-            img:".././img/jmanty.jpeg",
+            img:".././img/jjmanty.jpeg",
             description: "(1шт,1порц)"
         }, {
             id: 13,
@@ -83,7 +83,7 @@ const nasiblid =  [
             id: 14,
             title: "Курица хрустящий"
             ,price:'160 сом',
-            img:"https://www.povarenok.ru/data/cache/2017jan/14/44/1877453_51300-710x550x.jpg",
+            img:"https://alimero.ru/uploads/images/18/76/55/2018/11/05/147c9a.jpg",
             description: "(200гр)"
         }, {
             id: 15,
@@ -95,7 +95,7 @@ const nasiblid =  [
             id: 16,
             title: "Гарнир"
             ,price:'80 сом',
-            img:"https://img.povar.ru/main/22/e9/74/60/garnir_k_ribe-630338.jpg",
+            img:"https://receptveka.ru/images/r/ovkuse.com/img/Zr4yw5gt.jpg",
             description: "(1порц)"
         }, {
             id: 17,
